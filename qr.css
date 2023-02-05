@@ -1,0 +1,22 @@
+*{
+    background-color: black;
+}
+.cont{
+ 
+   background-image: url("qr1.png");
+   background-position:center;
+   background-size:cover;
+   
+}
+.card{
+    color:green;
+    margin-top:5%;
+    margin-left:40%;
+    
+}
+.card-text{
+    background-color: black;
+}
+#ptr{
+    background-color: green;
+}
